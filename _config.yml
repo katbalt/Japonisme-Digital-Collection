@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Monet and the Western Kimono: A Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Japonisme, Monet, and protests at the MFA Boston.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "A collection of images featured in my senior independent study Monet and the Western Kimono: The Creative Reasoning and Critical Legacy of La Japonaise."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Katarina Baltisberger
 
 ##########
 # COLLECTION SETTINGS
@@ -43,8 +43,8 @@ metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThpmWajW2_rpFoj_
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: "UNC Chapel Hill Art and Art History"
+# organization-link: https://art.unc.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
